@@ -2,7 +2,7 @@
   <img src="screen.gif" alt="Demo gif" width="300" />
 </p>
 
-# react-native-bottom-drawer
+# react-native-bdrawer
 
 React native bottom drawer component
 
