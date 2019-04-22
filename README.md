@@ -1,9 +1,8 @@
-# react-native-bottom-drawer
-
 <p align="center">
   <img src="screen.gif" alt="Demo gif" width="300" />
 </p>
 
+# react-native-bottom-drawer
 
 React native bottom drawer component
 
