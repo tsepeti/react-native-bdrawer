@@ -1,0 +1,8 @@
+{
+  "name": "react-native-bdrawer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/tsepeti/react-native-bdrawer.git",
+  "author": "Yasar icli <yasaricli@gmail.com>",
+  "license": "MIT"
+}
