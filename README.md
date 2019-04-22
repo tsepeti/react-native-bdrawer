@@ -24,19 +24,19 @@ import { View, Text, TouchableOpacity } from 'react-native';
 import BottomDrawer from 'react-native-bdrawer';
 
 class Example extends Component {
-	render() {
-		return (
-			<View>
-				<TouchableOpacity onPress={() => this.refs.Drawer.open()}>
-					<Text>Open Drawer</Text>
-				</TouchableOpacity>
+  render() {
+    return (
+      <View>
+        <TouchableOpacity onPress={() => this.refs.Drawer.open()}>
+          <Text>Open Drawer</Text>
+        </TouchableOpacity>
 
-				<BottomDrawer ref="Drawer" containerHeight={300}>
-					<Text>Hello</Text>
-				</BottomDrawer>
-			</View>
-		);
-	}
+        <BottomDrawer ref="Drawer" containerHeight={300}>
+	  <Text>Hello</Text>
+        </BottomDrawer>
+      </View>
+    )
+  }
 }
 ```
 
